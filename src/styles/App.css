@@ -1,0 +1,30 @@
+.colors-for-programmer {
+    /* programming */
+    color: #2C394B;
+    color: #EEEEEE;
+    color: #00C1D4;
+    color: #F8485E;
+    color:#47566b;
+}
+
+.colors-for-Artist {
+    /* background */
+    color: #E8F6EF;
+    color: #27343a;
+    color: #456268;
+    color: #79A3B1;
+    COLOR: #95aab1;
+}
+
+.colors-for-founder {
+    /* background */
+    color: #E9E2D0;
+    color: #EA9085;
+    color: #D45D79;
+    color: #6E5773;
+}
+
+body {
+    background-color: #2C394B;
+    color: #E8F6EF;
+}
