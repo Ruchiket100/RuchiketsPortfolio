@@ -20,7 +20,7 @@ const About = ({ about, about_sec }) => {
         </a>
 
         {/* Linkdin */}
-        <a href="#">
+        <a href="https://www.instagram.com/ruchikets_world/">
           <img
             className="social-logo"
             alt="Linkdin"
@@ -29,7 +29,7 @@ const About = ({ about, about_sec }) => {
         </a>
 
         {/* Twitter */}
-        <a href="#">
+        <a href="https://www.instagram.com/ruchikets_world/">
           <img
             className="social-logo"
             alt="Twitter"

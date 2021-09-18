@@ -49,7 +49,7 @@ const Buttons = () => {
           }}
         >
           Programmer
-        </button>
+        </button> 
       </Link>
 
       {/* Artist */}
