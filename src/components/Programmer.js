@@ -13,7 +13,7 @@ const Programmer = () => {
   return (
     <div className="programmer">
       {/* Landing Page */}
-      <LandingPage img_url="programmer.svg" />
+      <LandingPage img_url="https://raw.githubusercontent.com/Ruchiket100/RuchiketWorld/4aac135af069834358db7b7e32212141da323e07/Images/programmer.svg" />
       {/* ----------------  About Us ---------------- */}
       <About
         about="I am Ruchiket, currently I am persuing 12th. 

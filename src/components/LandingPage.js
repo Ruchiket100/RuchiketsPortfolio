@@ -9,7 +9,7 @@ const LandingPage = ({ img_url }) => {
       <div className="info">
         {/* ----------------- img-div ------------- */}
         <div className="my-img">
-          <img alt="Profile-img" src={`./Images/${img_url}`} />
+          <img alt="Profile-img" src={`${img_url}`} />
         </div>
         <div className="my-name">
           <Typing>

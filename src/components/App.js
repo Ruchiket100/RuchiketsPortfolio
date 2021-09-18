@@ -14,13 +14,13 @@ AOS.init();
 
 const App = () => {
   const error = () => {
-    return <h1>Error</h1>;
+    return <h1>Something wrong Happen :(</h1>;
   };
   return (
     <div>
       <main>
         <Switch>
-          <Route path="/" component={Programmer}  />
+          <Route path="/" component={Programmer} exact />
           <Route path="/Artist" component={Artist} />
           <Route component={error} />
         </Switch>
