@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RuchiketsPortfolio/static/css/main.3b2a72c4.chunk.css",
+    "main.js": "/RuchiketsPortfolio/static/js/main.425232ef.chunk.js",
+    "main.js.map": "/RuchiketsPortfolio/static/js/main.425232ef.chunk.js.map",
+    "runtime-main.js": "/RuchiketsPortfolio/static/js/runtime-main.11a9db0d.js",
+    "runtime-main.js.map": "/RuchiketsPortfolio/static/js/runtime-main.11a9db0d.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/RuchiketsPortfolio/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.9e1a3de5.chunk.js": "/RuchiketsPortfolio/static/js/2.9e1a3de5.chunk.js",
+    "static/js/2.9e1a3de5.chunk.js.map": "/RuchiketsPortfolio/static/js/2.9e1a3de5.chunk.js.map",
+    "index.html": "/RuchiketsPortfolio/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/RuchiketsPortfolio/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.3b2a72c4.chunk.css.map": "/RuchiketsPortfolio/static/css/main.3b2a72c4.chunk.css.map",
+    "static/js/2.9e1a3de5.chunk.js.LICENSE.txt": "/RuchiketsPortfolio/static/js/2.9e1a3de5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11a9db0d.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.9e1a3de5.chunk.js",
+    "static/css/main.3b2a72c4.chunk.css",
+    "static/js/main.425232ef.chunk.js"
+  ]
+}
