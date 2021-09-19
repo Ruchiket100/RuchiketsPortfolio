@@ -20,9 +20,9 @@ const App = () => {
     <div>
       <main>
         <Switch>
-          <Route path="/" component={Programmer} exact />
+          <Route path="/" component={Programmer} />
           <Route path="/Artist" component={Artist} />
-          <Route component={error} />
+          <Route component={Programmer} />
         </Switch>
         {/* Programmer */}
         {/* <Programmer /> */}
